@@ -10,7 +10,7 @@ const messages = {
         form: {
           name: "Nombre",
           email: "Correo electrónico",
-          password: "Contraseña",user
+          password: "Contraseña",
         },
         buttons: {
           submit: "Registrar",
